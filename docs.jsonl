@@ -85,6 +85,7 @@
 {  "name": "Langchain-JS",  "crawlerStart": "https://js.langchain.com/docs/",  "crawlerPrefix": "https://js.langchain.com/docs/"}
 {  "name": "Laravel",  "crawlerStart": "https://laravel.com/docs/10.x",  "crawlerPrefix": "https://laravel.com/docs/10.x"}
 {  "name": "Linux Man Pages",  "crawlerStart": "https://man7.org/linux/man-pages/dir_all_alphabetic.html",  "crawlerPrefix": "https://man7.org/linux/man-pages/"}
+{  "name": "LlamaIndex",  "crawlerStart": "https://docs.llamaindex.ai/en/stable/",  "crawlerPrefix": "https://docs.llamaindex.ai/en/stable/"}
 {  "name": "MCP",  "crawlerStart": "https://modelcontextprotocol.io/introduction",  "crawlerPrefix": "https://modelcontextprotocol.io/"}
 {  "name": "MLX",  "crawlerStart": "https://ml-explore.github.io/mlx/build/html/",  "crawlerPrefix": "https://ml-explore.github.io/mlx/build/html/"}
 {  "name": "Material UI",  "crawlerStart": "https://mui.com/material-ui/getting-started/",  "crawlerPrefix": "https://mui.com/material-ui/"}
